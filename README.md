@@ -5,7 +5,6 @@ This repository contains the code for building a Netflix-inspired home page usin
 ## Preview
 
 ![image](https://github.com/Sarthaklad1034/Netflix-Home-Page/Assets/245242222-4959b8ef-266f-4194-8709-b90223d69b2e.png)
-
 ## Features
 
 - Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop and mobile devices.
@@ -20,7 +19,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/alok-2002/Netflix_Home_Page_Using_HTML_And_CSS.git
+git clone https://github.com/Sarthaklad1034/Netflix-Home-Page.git
 ```
 
 2. Open the project in your preferred code editor.
@@ -46,8 +45,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [Alok Sharma](https://linkedin.com/in/alok-sharma2002-)
-- Email: [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com)
+- Your Name : [Sarthak Lad](https://linkedin.com/in/sarthak-lad)
+- Email: [sarthaklad1034@gmail.com](mailto:sarthaklad1034@gmail.com)
 
 ---
 
